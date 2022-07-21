@@ -17,3 +17,5 @@ Modeling Algorithm The final choice is to model the VS code using linear regress
 - Type this code in cmd/ VS Code-
 -   python app.py
 - -   http://127.0.0.1:5000/ This is my prediction webpage (go to localhost to see prediction results)
+
+https://github.com/Ushajini-Murugaratnam/IPL-Score-Predict.git
